@@ -18,8 +18,7 @@ AI Agent를 지향중인 개발자 임경빈입니다.
   - pytorch
   - Tensorflow
   - CV
-    - yolo v5 - object detection
-    - face detection/comparation/gender check with VGG
+    - face detection/comparation/gender check with CNN Model(VGG-Face)
 - DB 
   - SQL(Oracle SQL, Mysql, MariaDB, PostgreSQL)
 - DevOps
