@@ -30,6 +30,13 @@ AI Agent를 지향중인 개발자 임경빈입니다.
 
 ## ✨ 포트폴리오
 
+실무·AI 프로젝트를 한곳에 정리한 통합 포트폴리오 사이트입니다.
+
+🔗 통합 포트폴리오
+https://fdt15ss.github.io/portfolio/
+
+---
+
 ### 📊 Data Science / Deep Learning
 
 #### 🙋‍♂️ Computer Vision - 얼굴 동일인 판별 및 성별 판별 시스템
